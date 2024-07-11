@@ -2,7 +2,6 @@
 
 - **One of my personal digital nomad life projects (for practice).**
 - **Project current status: [complete]**:ballot_box_with_check:
-- **Current status: [complete]**:ballot_box_with_check:
 - **Tech**
 <p>
   &emsp;
